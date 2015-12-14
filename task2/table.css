@@ -1,0 +1,7 @@
+table, th, tr, td{
+    border: 1px solid black;
+}
+table > tbody > tr:nth-child(1) > td {
+    font-weight: bold;
+    text-align: center;
+}

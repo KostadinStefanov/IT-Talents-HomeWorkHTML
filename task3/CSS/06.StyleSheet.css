@@ -1,0 +1,35 @@
+body {
+	background-color: LightSkyBlue;
+}
+
+.grey{
+    background-color: #999999;
+}
+dt {
+	font-style: italic;
+}
+
+img {
+	display: block;
+}
+h1 {
+    text-align: center;
+}
+.makebold {
+	font-weight: bold;
+}
+
+section {
+    display: block;
+    width: 100%;
+    height: 350px;
+    margin-bottom: 25px;
+}
+article {
+    float: left;
+    width: 250px;
+    height: 275px;
+    padding: 10px;
+    margin: 0 20px 0 0;
+    border: 2px solid #5e5f56;
+}
